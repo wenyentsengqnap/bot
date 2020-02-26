@@ -192,7 +192,7 @@
                               ],
                               "netFrameworkVersion": "v4.0",
                               "phpVersion": "",
-                              "pythonVersion": "",
+                              "pythonVersion": "3.7",
                               "nodeVersion": "",
                               "linuxFxVersion": "PYTHON|3.7",
                               "requestTracingEnabled": false,
